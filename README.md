@@ -1,4 +1,3 @@
-#smagla  
 ## Linda for VR (仮) のGoogle Apps Scriptでの処理です。   
 
  1. 出退勤の情報をスプレッドシートに記録する。   
